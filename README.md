@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  ⚡ <i>"Build what you understand deeply."</i>
+  ⚡ <i>"Patterns reveal themselves to those who persist."</i>
 </p>
